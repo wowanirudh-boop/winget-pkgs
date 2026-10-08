@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=https://aka.ms/winget-manifest.defaultLocale.1.6.0.schema.json
 PackageIdentifier: AnirudhSangubhotla.StreamGrab
-PackageVersion: 0.1.1
+PackageVersion: 0.1.2
 PackageLocale: en-US
 Publisher: Anirudh Sangubhotla
 PublisherUrl: https://github.com/wowanirudh-boop
@@ -26,6 +26,6 @@ Tags:
 - video
 - youtube-dl
 - yt-dlp
-ReleaseNotesUrl: https://github.com/wowanirudh-boop/streamgrab-releases/releases/tag/v0.1.1
+ReleaseNotesUrl: https://github.com/wowanirudh-boop/streamgrab-releases/releases/tag/v0.1.2
 ManifestType: defaultLocale
 ManifestVersion: 1.6.0
